@@ -2,10 +2,15 @@
     "name": "Benjamins Text Page",
     "short_name": "Benjamins Text Page",
     "description": "Something dynamic",
-    "start_url": "<your-url>",
+    "start_url": "/",
     "background_color": "#000000",
     "theme_color": "#0f4a73",
     "start_url": "index.html",
     "display": "standalone",
-    "orientattion": "portrait"
+    "orientattion": "portrait",
+    "icons": [{
+      "src": "Ben.jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    }]
   }
