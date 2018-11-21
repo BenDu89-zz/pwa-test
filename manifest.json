@@ -1,0 +1,12 @@
+  {
+    "name": "Your Great Site",
+    "short_name": "Site",
+    "description": "Something dynamic",
+    "start_url": "<your-url>",
+    "background_color": "#000000",
+    "theme_color": "#0f4a73",
+    "start_url": "index.html",
+    "display": "standalone",
+    "orientattion": "portrait"
+  }
+
