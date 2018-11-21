@@ -1,5 +1,5 @@
   {
-    "name": "Your Great Sitesgit branch",
+    "name": "Benjamins Text Page",
     "short_name": "Benjamins Text Page",
     "description": "Something dynamic",
     "start_url": "<your-url>",
@@ -9,4 +9,3 @@
     "display": "standalone",
     "orientattion": "portrait"
   }
-
